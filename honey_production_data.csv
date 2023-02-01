@@ -1,31 +1,73 @@
-region,hives,percent,colony_loss,year
-Upper North,47092,0.154,0.1107,2020
-Middle North,96695,0.3162,0.1394,2020
-Lower North,95964,0.3138,0.0934,2020
-Upper South,17430,0.057,0.1279,2020
-Middle South,31614,0.1034,0.0784,2020
-Lower South,17005,0.0556,0.1293,2020
-Upper North,49593,0.16896,0.1067,2019
-Middle North,97447,0.332,0.1199,2019
-Lower North,58509,0.19934,0.0799,2019
-Upper South,29982,0.10215,0.0801,2019
-Middle South,31573,0.10757,0.1064,2019
-Lower South,26411,0.08998,0.1187,2019
-Upper North,61401,0.16781,0.1282,2018
-Middle North,110561,0.30216,0.092,2018
-Lower North,84239,0.23022,0.0806,2018
-Upper South,39782,0.10872,0.0999,2018
-Middle South,43526,0.11896,0.1136,2018
-Lower South,26390,0.07212,0.1058,2018
-Upper North,54297,0.22789,0.0917,2017
-Middle North,83922,0.35222,0.1037,2017
-Lower North,50584,0.2123,0.0911,2017
-Upper South,12741,0.05347,0.0527,2017
-Middle South,18636,0.07822,0.1128,2017
-Lower South,18083,0.0759,0.0979,2017
-Upper North,45434,0.16451,0.0806,2016
-Middle North,96451,0.34924,0.1065,2016
-Lower North,63221,0.22892,0.1163,2016
-Upper South,15382,0.0557,0.0549,2016
-Middle South,30805,0.11154,0.0767,2016
-Lower South,24882,0.0901,0.0735,2016
+area,year,variable,value,unit,,,
+north,2011,prod,6790,tonnes,,,
+north,2011,yield,26.4,kg/hive,,,
+north,2012,prod,5595,tonnes,,,
+north,2012,yield,19.5,kg/hive,,,
+north,2013,prod,11770,tonnes,,,
+north,2013,yield,37.7,kg/hive,,,
+north,2014,prod,13210,tonnes,,,
+north,2014,yield,36.4,kg/hive,,,
+north,2015,prod,14730,tonnes,,,
+north,2015,yield,35,kg/hive,,,
+north,2016,prod,14365,tonnes,,,
+north,2016,yield,27.7,kg/hive,,,
+north,2017,prod,9245,tonnes,,,
+north,2017,yield,15.2,kg/hive,,,
+north,2018,prod,13500,tonnes,,,
+north,2018,yield,20.1,kg/hive,,,
+north,2019,prod,15500,tonnes,,,
+north,2019,yield,22.3,kg/hive,,,
+north,2020,prod,20500,tonnes,,,
+north,2020,yield,31.1,kg/hive,,,
+north,2021,prod,13500,tonnes,,,
+north,2021,yield,22.5,kg/hive,,,
+north,2022,prod,15000,tonnes,,,
+north,2022,yield,28.1,kg/hive,,,
+south,2011,prod,2660,tonnes,,,
+south,2011,yield,20,kg/hive,,,
+south,2012,prod,4790,tonnes,,,
+south,2012,yield,35.2,kg/hive,,,
+south,2013,prod,6055,tonnes,,,
+south,2013,yield,43.3,kg/hive,,,
+south,2014,prod,4400,tonnes,,,
+south,2014,yield,30.5,kg/hive,,,
+south,2015,prod,4980,tonnes,,,
+south,2015,yield,32.1,kg/hive,,,
+south,2016,prod,5520,tonnes,,,
+south,2016,yield,33.3,kg/hive,,,
+south,2017,prod,5610,tonnes,,,
+south,2017,yield,30.1,kg/hive,,,
+south,2018,prod,6500,tonnes,,,
+south,2018,yield,31.2,kg/hive,,,
+south,2019,prod,7500,tonnes,,,
+south,2019,yield,33.4,kg/hive,,,
+south,2020,prod,6500,tonnes,,,
+south,2020,yield,31.1,kg/hive,,,
+south,2021,prod,7000,tonnes,,,
+south,2021,yield,33.9,kg/hive,,,
+south,2022,prod,7000,tonnes,,,
+south,2022,yield,35.5,kg/hive,,,
+nz,2011,prod,9450,tonnes,,,
+nz,2011,yield,24.2,kg/hive,,,
+nz,2012,prod,10385,tonnes,,,
+nz,2012,yield,24.6,kg/hive,,,
+nz,2013,prod,17825,tonnes,,,
+nz,2013,yield,39.4,kg/hive,,,
+nz,2014,prod,17610,tonnes,,,
+nz,2014,yield,34.7,kg/hive,,,
+nz,2015,prod,19710,tonnes,,,
+nz,2015,yield,34.2,kg/hive,,,
+nz,2016,prod,19885,tonnes,,,
+nz,2016,yield,29.1,kg/hive,,,
+nz,2017,prod,14855,tonnes,,,
+nz,2017,yield,18.7,kg/hive,,,
+nz,2018,prod,20000,tonnes,,,
+nz,2018,yield,22.7,kg/hive,,,
+nz,2019,prod,23000,tonnes,,,
+nz,2019,yield,25.1,kg/hive,,,
+nz,2020,prod,27000,tonnes,,,
+nz,2020,yield,31.1,kg/hive,,,
+nz,2021,prod,20500,tonnes,,,   
+nz,2021,yield,25.4,kg/hive,,,
+nz,2022,prod,22000,tonnes,,,
+nz,2022,yield,30.1,kg/hive,,,
